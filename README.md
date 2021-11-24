@@ -6,7 +6,7 @@
 ## Task list
 ### Frontend
 - [x] Setup Webpack
-- [ ] Base HTML structure
+- [x] Base HTML structure
 - [ ] Page system script
 - [ ] Login page
 - [ ] Registration page
