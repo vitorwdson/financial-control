@@ -7,7 +7,7 @@
 ### Frontend
 - [x] Setup Webpack
 - [x] Base HTML structure
-- [ ] Page system script
+- [x] Page system script
 - [ ] Login page
 - [ ] Registration page
 - [ ] Dashboard (main page)
